@@ -1,4 +1,4 @@
-Proyecto: DataProject - Lógica. Katas Python
+##Proyecto: DataProject - Lógica. Katas Python
 
 Este repositorio contiene una colección de katas de Python, ejercicios diseñados para mejorar la lógica de programación y el pensamiento computacional. Estas prácticas forman parte de mi proceso de aprendizaje en data analytics y me han ayudado a reforzar conceptos clave en Python.
 
